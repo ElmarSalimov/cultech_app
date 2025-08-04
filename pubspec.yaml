@@ -1,0 +1,76 @@
+name: cultech_app
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  lucide_icons_flutter: ^3.0.7
+  flutter_bloc: ^9.1.1
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/recipes.json
+
+  fonts:
+    - family: SF-Pro-Text
+      fonts:
+        - asset: assets/fonts/SF-Pro-Text-Thin.otf
+          weight: 100
+        - asset: assets/fonts/SF-Pro-Text-Ultralight.otf
+          weight: 200
+        - asset: assets/fonts/SF-Pro-Text-Light.otf
+          weight: 300
+        - asset: assets/fonts/SF-Pro-Text-Regular.otf
+          weight: 400
+        - asset: assets/fonts/SF-Pro-Text-Medium.otf
+          weight: 500
+        - asset: assets/fonts/SF-Pro-Text-Semibold.otf
+          weight: 600
+        - asset: assets/fonts/SF-Pro-Text-Bold.otf
+          weight: 700
+        - asset: assets/fonts/SF-Pro-Text-Black.otf
+          weight: 800
+        - asset: assets/fonts/SF-Pro-Text-Heavy.otf
+          weight: 900
+    - family: SF-Pro-Display
+      fonts:
+        - asset: assets/fonts/SF-Pro-Display-Thin.otf
+          weight: 100
+        - asset: assets/fonts/SF-Pro-Display-Ultralight.otf
+          weight: 200
+        - asset: assets/fonts/SF-Pro-Display-Light.otf
+          weight: 300
+        - asset: assets/fonts/SF-Pro-Display-Regular.otf
+          weight: 400
+        - asset: assets/fonts/SF-Pro-Display-Medium.otf
+          weight: 500
+        - asset: assets/fonts/SF-Pro-Display-Semibold.otf
+          weight: 600
+        - asset: assets/fonts/SF-Pro-Display-Bold.otf
+          weight: 700
+        - asset: assets/fonts/SF-Pro-Display-Black.otf
+          weight: 800
+        - asset: assets/fonts/SF-Pro-Display-Heavy.otf
+          weight: 900

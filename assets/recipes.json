@@ -1,0 +1,1268 @@
+[
+  {
+    "id": "resept-dovga-001",
+    "name": "Dovğa",
+    "category": "sulu yemək",
+    "time_for_cooking": 40,
+    "calories": 350,
+    "region": "Azərbaycan Milli Mətbəxi",
+    "image_url": "https://i.ytimg.com/vi/xA6sV_xez8E/maxresdefault.jpg",
+    "description": "Azərbaycan mətbəxinin ənənəvi yeməklərindən biri olan dovğa, xüsusilə bayramlarda və xüsusi günlərdə süfrələrin bəzəyidir. Həm isti, həm də soyuq halda servis edilə bilən bu yemək qatıq, göyərti və düyü ilə hazırlanır.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Qatıq",
+        "quantity": "2 litr"
+      },
+      {
+        "name": "Yumurta",
+        "quantity": "1 ədəd"
+      },
+      {
+        "name": "Un",
+        "quantity": "1 xörək qaşığı"
+      },
+      {
+        "name": "Yumru düyü",
+        "quantity": "0.5 stəkan"
+      },
+      {
+        "name": "Göyərti (keşniş, şüyüd, nanə, dağ keşnişi)",
+        "quantity": "1 böyük dəstə"
+      },
+      {
+        "name": "Duz",
+        "quantity": "zövqə görə"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Göyərtiləri təmizləyib yuyun və xırda şəkildə doğrayın."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Qazana qatıq, yumurta, un və yuyulmuş düyünü əlavə edib yaxşıca qarışdırın ki, düyünlər qalmasın."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Qazanı orta istilikli ocağın üzərinə qoyun və qatıq çürüməsin deyə davamlı olaraq taxta qaşıqla eyni istiqamətdə qarışdırın."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Qaynamağa başlayanda doğranmış göyərtiləri əlavə edin və qarışdırmağa davam edin."
+      },
+      {
+        "step_number": 5,
+        "instruction": "5-7 dəqiqə daha bişirdikdən sonra ocaqdan götürün. Duzu yalnız ocaqdan götürdükdən sonra əlavə edin."
+      }
+    ],
+    "fillings": null,
+    "serving_suggestions": [
+      "İsti və ya soyuq servis edilə bilər.",
+      "İçərisinə kiçik küftəciklər (noxudlu dovğa) əlavə etmək olar."
+    ],
+    "cultural_note": "Dovğa həm soyuq, həm də isti şəkildə yeyilə bilən unikal yeməkdir və toy, bayram kimi məclislərdə tez-tez hazırlanır. Duzun sonda əlavə edilməsi qatığın çürüməsinin qarşısını almaq üçün vacib bir məqamdır.",
+    "special_note": [
+      "isti servis",
+      "soyuq servis",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "resept-merci-002",
+    "name": "Mərci Şorbası",
+    "category": "sulu yemək",
+    "time_for_cooking": 50,
+    "calories": 400,
+    "region": "Türk və Azərbaycan Mətbəxi",
+    "image_url": "https://i.ytimg.com/vi/5VhENvRRoYs/maxresdefault.jpg",
+    "description": "Mərci şorbası, xüsusilə qış aylarında sevilən, həm dadlı, həm də faydalı bir şorbadır. Hazırlanması asan olan bu şorba, bir çox evdə müntəzəm olaraq bişirilir.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Qırmızı mərci",
+        "quantity": "1 stəkan"
+      },
+      {
+        "name": "Soğan",
+        "quantity": "1 ədəd"
+      },
+      {
+        "name": "Kök",
+        "quantity": "1 ədəd"
+      },
+      {
+        "name": "Kartof",
+        "quantity": "1 ədəd"
+      },
+      {
+        "name": "Kərə yağı",
+        "quantity": "2 xörək qaşığı"
+      },
+      {
+        "name": "Tomat pastası",
+        "quantity": "1 xörək qaşığı"
+      },
+      {
+        "name": "Su və ya bulyon",
+        "quantity": "6 stəkan"
+      },
+      {
+        "name": "Nanə qurusu",
+        "quantity": "1 çay qaşığı"
+      },
+      {
+        "name": "Duz, istiot",
+        "quantity": "zövqə görə"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Soğanı xırda doğrayıb kərə yağında qızılı rəng alana qədər qovurun."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Kök və kartofu kub şəklində doğrayıb soğana əlavə edin və 5 dəqiqə daha qovurun."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Tomat pastasını əlavə edib 1-2 dəqiqə qarışdırın."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Yuyulmuş mərcini əlavə edin, üzərinə suyu və ya bulyonu töküb qaynamağa qoyun."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Tərəvəzlər tam yumşalana qədər (təxminən 20-25 dəqiqə) bişirin."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Şorbanı blenderdən keçirərək tam püre halına gətirin."
+      },
+      {
+        "step_number": 7,
+        "instruction": "Duz, istiot və quru nanəni əlavə edib bir daşım daha qaynadın."
+      }
+    ],
+    "fillings": null,
+    "serving_suggestions": [
+      "Üzərinə qırmızı bibərli yağ gəzdirilib, limon dilimi ilə servis edilir.",
+      "Suxari (qızardılmış çörək kubları) ilə təqdim oluna bilər."
+    ],
+    "cultural_note": "Mərci şorbası həm Türkiyədə, həm də Azərbaycanda geniş yayılmışdır. Bəzi bölgələrdə şorbaya düyü və ya bulqur da əlavə edilir.",
+    "special_note": [
+      "isti servis",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "resept-eriste-003",
+    "name": "Sadə Əriştə Şorbası",
+    "category": "sulu yemək",
+    "time_for_cooking": 45,
+    "calories": 420,
+    "region": "Azərbaycan Milli Mətbəxi",
+    "image_url": "https://i.ytimg.com/vi/nLDXXMo8HOI/sddefault.jpg",
+    "description": "Asan hazırlanan və doyurucu olan sadə əriştə şorbası, gündəlik yemək üçün əla seçimdir. Xüsusilə soyuq havalarda bədəni isidən ləzzətli bir şorbadır.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Ev əriştəsi",
+        "quantity": "1 stəkan"
+      },
+      {
+        "name": "Soğan",
+        "quantity": "1 ədəd"
+      },
+      {
+        "name": "Kartof",
+        "quantity": "2 ədəd"
+      },
+      {
+        "name": "Kərə yağı və ya bitki yağı",
+        "quantity": "2 xörək qaşığı"
+      },
+      {
+        "name": "Tomat pastası",
+        "quantity": "1 xörək qaşığı"
+      },
+      {
+        "name": "Su",
+        "quantity": "1.5 litr"
+      },
+      {
+        "name": "Quru nanə",
+        "quantity": "1 çay qaşığı"
+      },
+      {
+        "name": "Duz, istiot",
+        "quantity": "zövqə görə"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Soğanı xırda doğrayıb yağda qızılı rəng alana qədər qovurun."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Tomat pastasını əlavə edib 1 dəqiqə qovurun."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Kartofu kiçik kublar şəklində doğrayıb qazana əlavə edin."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Üzərinə suyu əlavə edib kartoflar yarı bişənə qədər qaynadın."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Əriştəni şorbaya əlavə edib yumşalana qədər (təxminən 10 dəqiqə) bişirin."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Sonda duz, istiot və quru nanəni əlavə edib ocaqdan götürün."
+      }
+    ],
+    "fillings": null,
+    "serving_suggestions": [
+      "İsti servis edin.",
+      "Yanında təzə çörək və göyərti ilə təqdim etmək olar."
+    ],
+    "cultural_note": "Əriştə, Azərbaycanın bir çox bölgəsində ev şəraitində hazırlanan və qış üçün qurudulan ənənəvi un məmulatıdır. Bu şorba, əriştənin istifadə olunduğu ən sadə və populyar yeməklərdən biridir.",
+    "special_note": [
+      "isti servis",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "resept-balba-004",
+    "name": "Balba",
+    "category": "sulu yemək",
+    "time_for_cooking": 50,
+    "calories": 380,
+    "region": "Gəncə Mətbəxi",
+    "image_url": "https://i.ytimg.com/vi/_fltudX6MD0/sddefault.jpg",
+    "description": "Gəncə mətbəxinin ləziz yeməklərindən biri olan Balba, xəmir və müxtəlif göyərtilərin qarışığından hazırlanan unikal bir yeməkdir.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Qatıq",
+        "quantity": "1 litr"
+      },
+      {
+        "name": "Un",
+        "quantity": "2 stəkan"
+      },
+      {
+        "name": "Yumurta",
+        "quantity": "1 ədəd"
+      },
+      {
+        "name": "Dağ keşnişi",
+        "quantity": "1 dəstə"
+      },
+      {
+        "name": "Göy soğan",
+        "quantity": "1 dəstə"
+      },
+      {
+        "name": "Cəfəri",
+        "quantity": "1 dəstə"
+      },
+      {
+        "name": "Nanə",
+        "quantity": "1 dəstə"
+      },
+      {
+        "name": "Sarımsaq",
+        "quantity": "2-3 diş"
+      },
+      {
+        "name": "Duz",
+        "quantity": "zövqə görə"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Un, yumurta və duz ilə bərk xəmir yoğrulur və 15 dəqiqə dinlənməyə qoyulur."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Xəmiri nazik yayıb, kiçik romblar şəklində kəsin."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Göyərtilər təmizlənir, yuyulur və xırda doğranır."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Qazanda su qaynadılır, duz əlavə olunur və kəsilmiş xəmirlər suda bişirilir."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Xəmirlər bişdikdən sonra suyu süzülür."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Ayrı bir qabda qatıq, əzilmiş sarımsaq və doğranmış göyərtilər qarışdırılır."
+      },
+      {
+        "step_number": 7,
+        "instruction": "Bişmiş xəmirləri qatıqlı qarışığa əlavə edib yaxşıca qarışdırın və soyuq halda servis edin."
+      }
+    ],
+    "fillings": null,
+    "serving_suggestions": [
+      "Soyuq halda servis edilir.",
+      "Üzərinə əridilmiş kərə yağı gəzdirilə bilər."
+    ],
+    "cultural_note": "Balba, əsasən Azərbaycanın qərb bölgəsində, xüsusilə Gəncədə bişirilən mövsümi yeməkdir. Adətən yaz və yay aylarında, göyərtinin bol olduğu vaxtlarda hazırlanır.",
+    "special_note": [
+      "soyuq servis",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "resept-dusbere-005",
+    "name": "Bakı Düşbərəsi",
+    "category": "sulu yemək",
+    "time_for_cooking": 100,
+    "calories": 480,
+    "region": "Azərbaycan Milli Mətbəxi",
+    "image_url": "https://i.ytimg.com/vi/LxaEOs3WHas/maxresdefault.jpg",
+    "description": "Bakı düşbərəsi kiçik ölçülü olması ilə fərqlənir və deyimə görə, bir qaşığa 10-12 ədəd düşbərə sığmalıdır. Hazırlanması səbir və ustalıq tələb edən bu yemək, Azərbaycan mətbəxinin incilərindən sayılır.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Un (xəmir üçün)",
+        "quantity": "1 stəkan"
+      },
+      {
+        "name": "Yumurta (xəmir üçün)",
+        "quantity": "1 ədəd"
+      },
+      {
+        "name": "Su və Duz (xəmir üçün)",
+        "quantity": "az miqdarda"
+      },
+      {
+        "name": "Qoyun əti (içlik üçün)",
+        "quantity": "200 qr"
+      },
+      {
+        "name": "Soğan (içlik üçün)",
+        "quantity": "1 ədəd"
+      },
+      {
+        "name": "Sümük bulyonu",
+        "quantity": "1.5 litr"
+      },
+      {
+        "name": "Zəfəran",
+        "quantity": "bir neçə tel"
+      },
+      {
+        "name": "Quru nanə",
+        "quantity": "zövqə görə"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Xəmir üçün un, yumurta, su və duzdan bərk xəmir yoğrulur, üzəri örtülərək 15-20 dəqiqə dinləndirilir."
+      },
+      {
+        "step_number": 2,
+        "instruction": "İçlik üçün ət və soğan ətçəkən maşından keçirilir, duz və istiot vurularaq qarışdırılır."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Xəmir çox nazik yayılır və 1x1 sm ölçüdə kiçik kvadratlara kəsilir."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Hər kvadratın ortasına az miqdarda içlik qoyulur və üçbucaq formasında, daha sonra isə kənarları birləşdirilərək bükülür."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Qaynayan duzlu bulyona zəfəran dəmləməsi əlavə edilir."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Hazırlanmış düşbərələr qaynayan bulyona tökülür və üzə çıxana qədər (təxminən 5-7 dəqiqə) bişirilir."
+      },
+      {
+        "step_number": 7,
+        "instruction": "Süfrəyə verilərkən üzərinə quru nanə səpilir."
+      }
+    ],
+    "fillings": null,
+    "serving_suggestions": [
+      "Süfrəyə verilərkən yanına sirkə-sarımsaq qoyulur.",
+      "İsti halda servis edilir."
+    ],
+    "cultural_note": "Əsl Bakı düşbərəsinin çox kiçik olması onun əsas xüsusiyyətidir və hazırlanması ustalıq tələb edir. Keçmişdə gəlinin səbrini və əli-şirinliyini yoxlamaq üçün ona düşbərə bükdürərlərmiş.",
+    "special_note": [
+      "isti servis"
+    ]
+  },
+  {
+    "id": "resept-qayganaq-006",
+    "name": "Ordubad Qayğanağı",
+    "category": "quru yemək",
+    "time_for_cooking": 25,
+    "calories": 550,
+    "region": "Ordubad Mətbəxi",
+    "image_url": "https://qazet.az/resized/fit900x500/center/pages/113835/ordubad-qayganagi-1619x1080.jpg",
+    "description": "Ordubad qayğanağı bal və qozla hazırlanan, şirniyyatı xatırladan ləzzətli bir səhər yeməyidir. Naxçıvan mətbəxinin bu incisi xüsusi dadı ilə seçilir.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Yumurta",
+        "quantity": "4 ədəd"
+      },
+      {
+        "name": "Süd",
+        "quantity": "4 xörək qaşığı"
+      },
+      {
+        "name": "Un",
+        "quantity": "4 xörək qaşığı"
+      },
+      {
+        "name": "Kərə yağı",
+        "quantity": "100 qr"
+      },
+      {
+        "name": "Bal",
+        "quantity": "1 stəkan"
+      },
+      {
+        "name": "Qoz ləpəsi",
+        "quantity": "0.5 stəkan"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Yumurtaları bir qabda yaxşıca çalın. Üzərinə süd və un əlavə edib bircinsli kütlə alınana qədər qarışdırın."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Tavada kərə yağını əridin."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Hazırladığınız qarışığı tavaya töküb hər iki üzünü qızılı rəng alana qədər bişirin."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bişmiş qayğanağı rulet kimi büküb, 2-3 sm qalınlığında doğrayın."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Ayrı bir qabda balı bir az isidin və doğranmış qayğanaqların üzərinə gəzdirin."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Süfrəyə verərkən üzərinə xırdalanmış qoz ləpəsi səpin."
+      }
+    ],
+    "fillings": null,
+    "serving_suggestions": [
+      "İsti halda çayla birlikdə servis edilir."
+    ],
+    "cultural_note": "Ordubad qayğanağı adi qayğanaqlardan fərqli olaraq şərbətli (ballı) hazırlanması ilə seçilir və daha çox desert xarakteri daşıyır. Bu, Ordubadın zəngin şirniyyat mədəniyyətinin bir parçasıdır.",
+    "special_note": [
+      "isti servis",
+      "vegetarian"
+    ],
+    "faq": [
+      {
+        "question": "Bal əvəzinə şəkər şərbətindən istifadə etmək olar?",
+        "answer": "Bəli, olar. Amma bal qayğanağa xüsusi dad və ətir verir. Şəkər şərbəti istifadə etsəniz, dadı fərqli olacaq, lakin yenə də ləzzətli alınacaq. Şərbəti bir az qatı hazırlamağınız məsləhətdir."
+      },
+      {
+        "question": "Niyə mənim qayğanağım köpüklü və yumşaq alınmır?",
+        "answer": "Bunun bir neçə səbəbi ola bilər. Birincisi, yumurtaları çox yaxşı çalmaq lazımdır. İkincisi, unun miqdarını dəqiq ölçün, artıq un xəmiri bərk edə bilər. Üçüncüsü isə, tavaya tökdükdən sonra orta odda, tələsmədən bişirmək vacibdir."
+      },
+      {
+        "question": "Qayğanağı daha da zənginləşdirmək üçün nə əlavə edə bilərəm?",
+        "answer": "Klassik reseptdə bal və qoz istifadə olunur. Zövqə görə, bal ilə birlikdə bir az darçın səpə və ya süfrəyə verərkən yanında təzə giləmeyvələr (moruq, çiyələk) də təqdim edə bilərsiniz. Bəziləri hətta qaymaqla servis etməyi də sevir."
+      }
+    ]
+  },
+  {
+    "id": "resept-plov-007",
+    "name": "Zirinçli Toyuq Plovu",
+    "category": "quru yemək",
+    "time_for_cooking": 140,
+    "calories": 750,
+    "region": "Azərbaycan Milli Mətbəxi",
+    "image_url": "https://i.ytimg.com/vi/rsb5LzQL2dU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBG3rifB7V6JJ4p5egOqAc8Cc2Lfw",
+    "description": "Zirinçli toyuq plovu, turşməzə dadı ilə seçilən, Azərbaycan mətbəxinin ən ləziz plov növlərindən biridir. Toyuq əti və zirinçin harmoniyası bu plova xüsusi bir dad verir.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Düyü",
+        "quantity": "3 stəkan"
+      },
+      {
+        "name": "Toyuq",
+        "quantity": "1 ədəd (bütöv)"
+      },
+      {
+        "name": "Soğan",
+        "quantity": "2 ədəd"
+      },
+      {
+        "name": "Zirinç",
+        "quantity": "1 stəkan"
+      },
+      {
+        "name": "Kərə yağı",
+        "quantity": "200-250 qr"
+      },
+      {
+        "name": "Zəfəran",
+        "quantity": "0.5 çay qaşığı"
+      },
+      {
+        "name": "Duz, İstiot",
+        "quantity": "zövqə görə"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Düyünü duzlu ilıq suda ən az 3-4 saat saxlayın. Zəfəranı dəmləyin."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Toyuğu hissələrə ayırıb duzlu suda qaynadın."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Soğanı yarımhalqa şəklində doğrayıb yağda qızılı rəng alana qədər qovurun. Bişmiş toyuq tikələrini əlavə edib bir az da qovurun."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Zirinci təmizləyib yuyun və ayrı bir tavada az yağda 1-2 dəqiqə qovurun."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Düyünü süzüb qaynar duzlu suda yarıbişmiş hala gətirin və aşsüzəndən süzün."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Qazanın dibinə qazmaq üçün lavaş və ya kartof dilimləri düzün. Düyünün bir hissəsini, sonra toyuqlu qarışığı, zəfəranı və zirinci lay-lay qazana yığın. Üzərinə ərinmiş kərə yağı gəzdirib dəmə qoyun."
+      }
+    ],
+    "fillings": null,
+    "serving_suggestions": [
+      "Plovu süfrəyə verərkən düyü və qarasını (toyuqlu qarışığı) ayrı-ayrı qablarda təqdim etmək olar."
+    ],
+    "cultural_note": "Zirinç (bərbəris giləmeyvəsi) Azərbaycan plovlarında turş dad vermək üçün geniş istifadə olunur. Bu plov xüsusilə cənub bölgəsi mətbəxinə yaxın hesab edilir.",
+    "special_note": [
+      "isti servis"
+    ]
+  },
+  {
+    "id": "resept-bozartma-008",
+    "name": "Bozartma",
+    "category": "quru yemək",
+    "time_for_cooking": 100,
+    "calories": 650,
+    "region": "Azərbaycan Milli Mətbəxi",
+    "image_url": "https://i.ytimg.com/vi/L2FnlKxUT8o/maxresdefault.jpg",
+    "description": "Bozartma, öz suyunda bişən ət və kartofdan ibarət olan, sadə amma çox ləzzətli bir Azərbaycan yeməyidir. Adətən qoyun ətindən hazırlanır.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Qoyun əti (sümüklü)",
+        "quantity": "1 kq"
+      },
+      {
+        "name": "Kartof",
+        "quantity": "1 kq"
+      },
+      {
+        "name": "Soğan",
+        "quantity": "2 ədəd"
+      },
+      {
+        "name": "Kərə yağı",
+        "quantity": "100 qr"
+      },
+      {
+        "name": "Duz, İstiot",
+        "quantity": "zövqə görə"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Əti yuyub qazana yığın. Üzərinə çıxacaq qədər su əlavə edib kəfini yığaraq bişirin."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Ət yarı bişmiş olanda üzərinə bütöv və ya iki yerə bölünmüş kartofları əlavə edin."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Soğanı halqa şəklində doğrayıb ayrı bir tavada yağda qızılı rəng alana qədər qovurun."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Ət və kartof tam bişdikdə suyunu süzün (suyu başqa yeməklər üçün istifadə edə bilərsiniz)."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Bişmiş ət və kartofu servis qabına çəkin, üzərinə duz, istiot səpin və qızardılmış soğanı əlavə edin."
+      }
+    ],
+    "fillings": null,
+    "serving_suggestions": [
+      "Yanında təzə tərəvəzlər, turşu və ya qatıqla servis edilə bilər."
+    ],
+    "cultural_note": "Bozartma adı yeməyin rənginə işarədir. Yeməyə tomat və ya başqa rəngverici qatılmadığı üçün 'boz' rəngdə olur. Bu, yeməyin təbii və orijinal dadını qoruyur.",
+    "special_note": [
+      "isti servis"
+    ]
+  },
+  {
+    "id": "resept-visneli-qovurma-009",
+    "name": "Xırda Küftəli Vişnəli Qovurma",
+    "category": "quru yemək",
+    "time_for_cooking": 70,
+    "calories": 600,
+    "region": "Azərbaycan Milli Mətbəxi",
+    "image_url": "https://resept.az/wp-content/uploads/2022/07/b1.jpg",
+    "description": "Turşməzə dadları sevənlər üçün ideal olan bu qovurma, xırda küftələr, şabalıd və albalının (vişnənin) möhtəşəm birləşməsidir. Adətən plovla birlikdə süfrəyə verilir.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Qoyun əti (çəkilmiş)",
+        "quantity": "500 qr"
+      },
+      {
+        "name": "Soğan",
+        "quantity": "2 ədəd"
+      },
+      {
+        "name": "Şabalıd",
+        "quantity": "200 qr"
+      },
+      {
+        "name": "Albalı (təzə və ya dondurulmuş)",
+        "quantity": "1 stəkan"
+      },
+      {
+        "name": "Kərə yağı",
+        "quantity": "100 qr"
+      },
+      {
+        "name": "Duz, İstiot",
+        "quantity": "zövqə görə"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Şabalıdın qabığını təmizləyib duzlu suda bişirin."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Çəkilmiş ətə xırda doğranmış bir ədəd soğan, duz və istiot qatıb yaxşıca yoğurun və kiçik küftəciklər hazırlayın."
+      },
+      {
+        "step_number": 3,
+        "instruction": "İkinci soğanı xırda doğrayıb tavada yağda qızılı rəng alana qədər qovurun."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Küftəcikləri tavaya əlavə edib hər tərəfi qızarana qədər bişirin."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Bişmiş şabalıd və albalını (əgər donmuşdursa, buzunu açmadan) tavaya əlavə edin."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Tavanın qapağını örtüb, albalı suyunu salıb çəkənə qədər (təxminən 10-15 dəqiqə) aşağı odda bişirin."
+      }
+    ],
+    "fillings": null,
+    "serving_suggestions": [
+      "Əsasən aşqarası kimi plovla birlikdə servis edilir."
+    ],
+    "cultural_note": "Azərbaycan mətbəxində ət yeməklərində meyvə və giləmeyvələrdən istifadə geniş yayılmışdır. Bu, yeməklərə həm xüsusi ləzzət, həm də gözəl görünüş verir.",
+    "special_note": [
+      "isti servis"
+    ]
+  },
+  {
+    "id": "resept-qutab-010",
+    "name": "Ət Qutabı",
+    "category": "quru yemək",
+    "time_for_cooking": 80,
+    "calories": 700,
+    "region": "Azərbaycan Milli Mətbəxi",
+    "image_url": "https://www.azcookbook.com/wp-content/uploads/2011/10/cooking-gutabs-filled-flatbreads.jpg",
+    "description": "Ət qutabı, nazik yayılmış xəmirin arasına ət qiyməsi qoyularaq sacda bişirilən, Azərbaycanın ən məşhur milli yeməklərindən biridir.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Un",
+        "quantity": "3 stəkan"
+      },
+      {
+        "name": "Su",
+        "quantity": "1 stəkan"
+      },
+      {
+        "name": "Duz (xəmir üçün)",
+        "quantity": "1 çay qaşığı"
+      },
+      {
+        "name": "Qoyun və ya mal əti (çəkilmiş)",
+        "quantity": "400 qr"
+      },
+      {
+        "name": "Soğan",
+        "quantity": "2 ədəd"
+      },
+      {
+        "name": "Nar dənələri və ya zoğal turşusu",
+        "quantity": "zövqə görə"
+      },
+      {
+        "name": "Duz, İstiot (içlik üçün)",
+        "quantity": "zövqə görə"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Un, su və duzdan yumşaq, ələ yapışmayan xəmir yoğurun və üzərini örtərək 30 dəqiqə dinləndirin."
+      },
+      {
+        "step_number": 2,
+        "instruction": "İçlik üçün çəkilmiş ətə sürtgəcdən keçirilmiş soğan, duz, istiot və istəyə görə nar dənələri və ya zoğal turşusu əlavə edib qarışdırın."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Xəmirdən kiçik kündələr tutub, nəlbəki ölçüsündə çox nazik yayın."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Yayılmış yuxanın bir yarısına nazik təbəqə halında içlikdən yayın və digər yarısını üzərinə qatlayaraq aypara şəkli verin. Kənarlarını yaxşıca birləşdirin."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Qutabları quru, qızdırılmış sacda və ya qalın dibli tavada hər iki üzü qızarana qədər bişirin."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Bişmiş qutabları isti-isti kərə yağı ilə yağlayın."
+      }
+    ],
+    "fillings": null,
+    "serving_suggestions": [
+      "Süfrəyə verərkən üzərinə sumax səpilir və yanında qatıqla təqdim edilir."
+    ],
+    "cultural_note": "Qutab Azərbaycanın müxtəlif bölgələrində fərqli içliklərlə (göyərti, balqabaq, pendir) hazırlanır. Ət qutabı isə ən klassik və sevilən növlərdən biridir.",
+    "special_note": [
+      "isti servis"
+    ]
+  },
+  {
+    "id": "resept-qogal-011",
+    "name": "Şirin Qoğal",
+    "category": "şirniyyat",
+    "time_for_cooking": 200,
+    "calories": 450,
+    "region": "Azərbaycan Milli Mətbəxi",
+    "image_url": "https://i.ytimg.com/vi/OKpvLaN9FwM/maxresdefault.jpg",
+    "description": "Novruz bayramının simvollarından olan şirin qoğal, qat-qat xəmiri və ətirli içliyi ilə sevilən bir şirniyyatdır. Hazırlanması zəhmət tələb etsə də, nəticəsi çox ləzzətlidir.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Süd (xəmir üçün)",
+        "quantity": "500 ml"
+      },
+      {
+        "name": "Un (xəmir üçün)",
+        "quantity": "1 kq"
+      },
+      {
+        "name": "Maya (xəmir üçün)",
+        "quantity": "1 çay qaşığı"
+      },
+      {
+        "name": "Yumurta (xəmir üçün)",
+        "quantity": "2 ədəd"
+      },
+      {
+        "name": "Kərə yağı (xəmir üçün)",
+        "quantity": "100 qr"
+      },
+      {
+        "name": "Duz (xəmir üçün)",
+        "quantity": "1 çimdik"
+      },
+      {
+        "name": "Kərə yağı (qatları yağlamaq üçün)",
+        "quantity": "500 qr"
+      },
+      {
+        "name": "Yumurta sarısı (üzəri üçün)",
+        "quantity": "2 ədəd"
+      },
+      {
+        "name": "Xaş-xaş və ya çörəkotu (üzəri üçün)",
+        "quantity": "zövqə görə"
+      }
+    ],
+    "fillings": [
+      {
+        "name": "Un (içlik üçün)",
+        "quantity": "2 stəkan"
+      },
+      {
+        "name": "Şəkər tozu (içlik üçün)",
+        "quantity": "2 stəkan"
+      },
+      {
+        "name": "Sarıkök və Zəfəran (içlik üçün)",
+        "quantity": "zövqə görə"
+      },
+      {
+        "name": "Hil (içlik üçün)",
+        "quantity": "0.5 çay qaşığı"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Xəmir üçün süddə mayanı həll edin. Un, yumurta, ərinmiş yağ və duz əlavə edib yumşaq xəmir yoğurun və 1-1.5 saat gəlməyə qoyun."
+      },
+      {
+        "step_number": 2,
+        "instruction": "İçlik üçün un, şəkər tozu, hil və ədviyyatları qarışdırın."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Gəlmiş xəmiri 10-12 kiçik kündəyə ayırın və hər birini nazik yayın."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Hər yuxanın arasını bolca ərinmiş kərə yağı ilə yağlayaraq üst-üstə yığın."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Yağlanmış qatları rulet şəklində bükün və 4-5 sm enində kəsin."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Hər hissənin ortasını barmaqla basaraq dərinlik yaradın və içərisinə 1 çay qaşığı içlikdən qoyub kənarlarını büzərək bağlayın."
+      },
+      {
+        "step_number": 7,
+        "instruction": "Qoğalları soba listinə düzün, üzərinə yumurta sarısı çəkib xaş-xaş səpin və 180 dərəcə qızdırılmış sobada qızarana qədər bişirin."
+      }
+    ],
+    "serving_suggestions": [
+      "Çayla birlikdə servis edilir.",
+      "Novruz bayramında digər şirniyyatlarla birlikdə təqdim olunur."
+    ],
+    "cultural_note": "Qoğal, Novruz bayramında Günəşi simvolizə edir. Şirin qoğalla yanaşı, duzlu (şor) qoğal da hazırlanır ki, bu da Ayı təmsil edir.",
+    "special_note": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "resept-badambura-012",
+    "name": "Badambura",
+    "category": "şirniyyat",
+    "time_for_cooking": 160,
+    "calories": 400,
+    "region": "Bakı Mətbəxi",
+    "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmMIi0qn0ax82OW7FccfaXmy3MMeerp9Lw5Hs-R-F0mh4E61lEbWIEmMjZQ7L2vQW8VpjtT6doaPH8oFPZc71R-ZLmhAS8TnKK_gfNlA",
+    "description": "Badambura, qat-qat xəmiri, ətirli badam içliyi və zərif görünüşü ilə seçilən Azərbaycan şirniyyatıdır. Adətən Novruz bayramı üçün hazırlanır.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Un",
+        "quantity": "1 kq"
+      },
+      {
+        "name": "Kərə yağı",
+        "quantity": "350 qr (xəmirə) + 350 qr (qatlara)"
+      },
+      {
+        "name": "Xama",
+        "quantity": "300 qr"
+      },
+      {
+        "name": "Yumurta",
+        "quantity": "2 ədəd"
+      },
+      {
+        "name": "Süd",
+        "quantity": "0.5 stəkan"
+      },
+      {
+        "name": "Maya",
+        "quantity": "1 çay qaşığı"
+      },
+      {
+        "name": "Şəkər kirşanı (üzəri üçün)",
+        "quantity": "1 stəkan"
+      }
+    ],
+    "fillings": [
+      {
+        "name": "Badam ləpəsi (təmizlənmiş, çəkilmiş)",
+        "quantity": "500 qr"
+      },
+      {
+        "name": "Şəkər tozu",
+        "quantity": "500 qr"
+      },
+      {
+        "name": "Hil",
+        "quantity": "1 çay qaşığı"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Maya ilıq süddə həll edilir. Un, ərinmiş yağ, xama, yumurta və mayalı südü qarışdırıb yumşaq xəmir yoğurun və 1 saat dinləndirin."
+      },
+      {
+        "step_number": 2,
+        "instruction": "İçlik üçün çəkilmiş badam, şəkər tozu və hili qarışdırın."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Xəmiri 10-12 bərabər hissəyə bölün. Hər kündəni çox nazik yayın və aralarını bolca ərinmiş yağla yağlayaraq üst-üstə qoyun."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Qatları sıx rulet şəklində bükün və 4-5 sm enində kəsin."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Hər parçanı əlinizlə bir az yastılayın, ortasına içlik qoyub kənarlarını birləşdirin və yumru forma verin."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Üzərinə naxış vuraraq soba listinə düzün. Badamburanın üzü ağ qalmalıdır, qızarmamalıdır."
+      },
+      {
+        "step_number": 7,
+        "instruction": "170-180 dərəcə qızdırılmış sobada təxminən 20-25 dəqiqə bişirin."
+      },
+      {
+        "step_number": 8,
+        "instruction": "Soyuduqdan sonra üzərinə bolca şəkər kirşanı səpin."
+      }
+    ],
+    "serving_suggestions": [
+      "Soyuq halda servis edilir.",
+      "Novruz xonçasının əsas elementlərindən biridir."
+    ],
+    "cultural_note": "Badambura, Ayı simvolizə edir. Onun üzərindəki naxışlar isə qədim inanclarla bağlıdır. Bişərkən üzünün ağ qalması onun əsas xüsusiyyətidir.",
+    "special_note": [
+      "soyuq servis",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "resept-sekerbura-013",
+    "name": "Şəkərbura",
+    "category": "şirniyyat",
+    "time_for_cooking": 110,
+    "calories": 380,
+    "region": "Bakı Mətbəxi",
+    "image_url": "https://i.ytimg.com/vi/QAGHhwRVlx4/maxresdefault.jpg",
+    "description": "Şəkərbura, aypara formasında, üzəri maqqaşla naxışlanmış, içi fındıq və ya badam ləpəsi ilə doldurulmuş ənənəvi Azərbaycan şirniyyatıdır.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Un",
+        "quantity": "1 kq"
+      },
+      {
+        "name": "Kərə yağı",
+        "quantity": "500 qr"
+      },
+      {
+        "name": "Yumurta sarısı",
+        "quantity": "5 ədəd"
+      },
+      {
+        "name": "Xama",
+        "quantity": "250 qr"
+      },
+      {
+        "name": "Qabartma tozu",
+        "quantity": "1 çay qaşığı"
+      }
+    ],
+    "fillings": [
+      {
+        "name": "Fındıq və ya badam ləpəsi (çəkilmiş)",
+        "quantity": "500 qr"
+      },
+      {
+        "name": "Şəkər tozu",
+        "quantity": "500 qr"
+      },
+      {
+        "name": "Hil",
+        "quantity": "1 çay qaşığı"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Yumşaldılmış kərə yağını unla ovun (ovuntu halına gətirin). Yumurta sarıları, xama və qabartma tozunu əlavə edib yumşaq xəmir yoğurun."
+      },
+      {
+        "step_number": 2,
+        "instruction": "İçlik üçün çəkilmiş ləpə, şəkər tozu və hili qarışdırın."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Xəmirdən qoz boyda kündələr hazırlayın."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Hər kündəni oval formada yayın, ortasına 1 xörək qaşığı içlik qoyun və kənarlarını buraraq bağlayın."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Maqqaş (xüsusi naxış aləti) ilə üzərinə sünbül formasında naxışlar vurun."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Şəkərburaları perqament sərilmiş soba listinə düzün."
+      },
+      {
+        "step_number": 7,
+        "instruction": "170-180 dərəcə qızdırılmış sobada altı yüngül qızarana, üzü isə ağ qalana qədər (təxminən 15-20 dəqiqə) bişirin."
+      }
+    ],
+    "serving_suggestions": [
+      "Tam soyuduqdan sonra servis edilir.",
+      "Novruz bayramında və xüsusi günlərdə süfrəyə qoyulur."
+    ],
+    "cultural_note": "Şəkərbura da badambura kimi Ayı simvolizə edir. Üzərindəki naxışlar isə buğda sünbülünü təmsil edir ki, bu da bolluq və bərəkət rəmzidir.",
+    "special_note": [
+      "soyuq servis",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "resept-paxlava-014",
+    "name": "Bakı Paxlavası",
+    "category": "şirniyyat",
+    "time_for_cooking": 200,
+    "calories": 550,
+    "region": "Bakı Mətbəxi",
+    "image_url": "https://azza.az/wp-content/uploads/2020/07/lv5a5577-2-kopiya.jpg",
+    "description": "Bakı paxlavası, romb şəklində kəsilmiş, ortasında qoz və ya fındıq olan, üzərinə şərbət tökülmüş, Azərbaycan mətbəxinin şah əsəridir.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Un",
+        "quantity": "800 qr"
+      },
+      {
+        "name": "Süd",
+        "quantity": "250 ml"
+      },
+      {
+        "name": "Kərə yağı",
+        "quantity": "250 qr (xəmirə) + 300 qr (qatlara)"
+      },
+      {
+        "name": "Yumurta",
+        "quantity": "2 ədəd"
+      },
+      {
+        "name": "Maya",
+        "quantity": "1 çay qaşığı"
+      },
+      {
+        "name": "Yumurta sarısı (üzəri üçün)",
+        "quantity": "1 ədəd"
+      },
+      {
+        "name": "Zəfəran (üzəri üçün)",
+        "quantity": "bir neçə tel"
+      }
+    ],
+    "fillings": [
+      {
+        "name": "Qoz ləpəsi (çəkilmiş)",
+        "quantity": "500 qr"
+      },
+      {
+        "name": "Şəkər tozu",
+        "quantity": "500 qr"
+      },
+      {
+        "name": "Hil",
+        "quantity": "1 çay qaşığı"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Xəmir üçün bütün ərzaqları qarışdırıb yumşaq xəmir yoğurun və 1 saat gəlməyə qoyun."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Şərbət üçün şəkər tozu və suyu qaynadın, limon suyu əlavə edib kənara qoyun."
+      },
+      {
+        "step_number": 3,
+        "instruction": "İçlik üçün qoz, şəkər və hili qarışdırın."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Xəmiri 10-12 hissəyə bölün, iki kündəni bir az böyük (alt və üst qat üçün) götürün. Hər kündəni soba listi ölçüsündə çox nazik yayın."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Listi yağlayın, ilk (böyük) yuxanı sərin. Arasına ərinmiş yağ çəkib içlik səpin. Bu prosesi bütün yuxalar bitənə qədər təkrarlayın."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Sonuncu (böyük) yuxanı sərib kənarlarını alt qatın altına bükün. Üzərinə zəfəranlı yumurta sarısı çəkin."
+      },
+      {
+        "step_number": 7,
+        "instruction": "Paxlavanı romb şəklində kəsin və hər rombun ortasına bir ləpə (qoz və ya fındıq) qoyun."
+      },
+      {
+        "step_number": 8,
+        "instruction": "180 dərəcə qızdırılmış sobada 15 dəqiqə bişirdikdən sonra çıxarıb kəsilmiş yerlərinə ərinmiş yağ gəzdirin və yenidən sobaya qoyub tam qızarana qədər bişirin."
+      },
+      {
+        "step_number": 9,
+        "instruction": "İsti paxlavanın üzərinə isti şərbəti tökün və tam soyumasını gözləyin."
+      }
+    ],
+    "serving_suggestions": [
+      "Tam soyuduqdan sonra servis edilir."
+    ],
+    "cultural_note": "Paxlava, Novruz bayramında Ulduzu simvolizə edir. Onun hazırlanması böyük ustalıq və səbr tələb edir və bayram süfrəsinin ən əsas şirniyyatı sayılır.",
+    "special_note": [
+      "soyuq servis",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "resept-balli-tort-015",
+    "name": "Ballı Tort",
+    "category": "şirniyyat",
+    "time_for_cooking": 150,
+    "calories": 500,
+    "region": "Populyar Mətbəx",
+    "image_url": "https://i.ytimg.com/vi/LyCinrzGwrE/maxresdefault.jpg",
+    "description": "Ballı tort, nazik bal ətirli laylar və qaymaqlı kremdən ibarət olan, çoxlarının sevimlisinə çevrilmiş klassik bir tortdur.",
+    "chef_id": null,
+    "ingredients": [
+      {
+        "name": "Kərə yağı",
+        "quantity": "100 qr"
+      },
+      {
+        "name": "Şəkər tozu",
+        "quantity": "1 stəkan"
+      },
+      {
+        "name": "Bal",
+        "quantity": "2 xörək qaşığı"
+      },
+      {
+        "name": "Yumurta",
+        "quantity": "2 ədəd"
+      },
+      {
+        "name": "Soda",
+        "quantity": "1 çay qaşığı"
+      },
+      {
+        "name": "Un",
+        "quantity": "3-4 stəkan"
+      },
+      {
+        "name": "Qaymaq (krem üçün)",
+        "quantity": "500 qr"
+      },
+      {
+        "name": "Qatılaşdırılmış süd (krem üçün)",
+        "quantity": "1 banka"
+      }
+    ],
+    "fillings": null,
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Su hamamında (buxarda) kərə yağı, şəkər tozu və balı əriyənə qədər qarışdırın."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Yumurtaları ayrı qabda çalıb yavaş-yavaş ballı qarışığa əlavə edin və sürətlə qarışdırın."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Sodanı əlavə edin, qarışıq köpüklənib həcmi artacaq. 1-2 dəqiqə sonra oddan götürün."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Unu hissə-hissə əlavə edərək yumşaq, ələ yapışan xəmir yoğurun. Xəmiri 8-10 bərabər hissəyə bölün."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Hər kündəni nazik yayın və 180 dərəcəlik sobada 3-5 dəqiqə (qızılı rəng alana qədər) bişirin."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Bişən layları isti ikən eyni ölçüdə (məsələn, boşqabla) kəsin. Kənarlarından çıxanları ovuntu halına gətirin."
+      },
+      {
+        "step_number": 7,
+        "instruction": "Krem üçün qaymaq və qatılaşdırılmış südü mikserlə bərkiyənə qədər çalın."
+      },
+      {
+        "step_number": 8,
+        "instruction": "Tortu yığın: hər layın arasına bolca krem çəkin. Üzərini və kənarlarını da kremləyib, xəmir ovuntuları ilə bəzəyin."
+      },
+      {
+        "step_number": 9,
+        "instruction": "Tortu ən az 6-8 saat (idealı bir gecə) soyuducuda saxlayın ki, kremi canına çəksin."
+      }
+    ],
+    "serving_suggestions": [
+      "Soyuq halda servis edilir.",
+      "Üzərini qoz ləpəsi və ya şokoladla da bəzəmək olar."
+    ],
+    "cultural_note": "Ballı tort (Medovik) Şərqi Avropa mənşəli olsa da, Azərbaycanda o qədər sevilir və bişirilir ki, artıq yerli mətbəxin bir parçası kimi qəbul olunur.",
+    "special_note": [
+      "soyuq servis",
+      "vegetarian"
+    ]
+  }
+]
